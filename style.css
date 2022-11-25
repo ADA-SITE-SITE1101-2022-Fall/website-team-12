@@ -46,10 +46,3 @@ head {
     z-index: 10;
 }
 
-h4 {
-    background-color: #476f65;
-    border-bottom: 1px solid #466995;
-    position: fixed;
-    width: 50%;
-    z-index: 10;
-}
