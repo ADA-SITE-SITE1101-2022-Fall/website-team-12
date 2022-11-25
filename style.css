@@ -47,5 +47,5 @@ head {
 }
 
 .foreground {
-    background-color: hsla(325, 50%, 50%, 0.6);
+    background-color: hsl(325, 80%, 60%, 0.60);
 }
