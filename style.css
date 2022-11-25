@@ -49,3 +49,7 @@ head {
 .foreground {
     background-color: hsl(325, 80%, 60%, 0.60);
 }
+
+body {
+    background-color: rgba(0, 255, 0, 0.1);
+}
