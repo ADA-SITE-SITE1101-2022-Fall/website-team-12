@@ -46,3 +46,6 @@ head {
     z-index: 10;
 }
 
+.foreground {
+    background-color: hsla(325, 50%, 50%, 0.6);
+}
