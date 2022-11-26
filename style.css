@@ -68,9 +68,10 @@ h8 {
 }
 
 h9 {
-    background-color: #63622c;
-    border-bottom: 1px solid #466995;
-    position: fixed;
-    width: 100%;
-    z-index: 10;
+    color: #cfc747;
+    font-family: 'Yantramanav', sans-serif;
+    font-size: 45px;
+    font-weight: 350;
+    margin: 3;
+    text-align: center;
 }
