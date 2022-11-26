@@ -57,3 +57,12 @@ body {
 new {
     background-color: #97b3d7;
 }
+
+h8 {
+    color: #a53ff1;
+    font-family: 'Yantramanav', sans-serif;
+    font-size: 45px;
+    font-weight: 350;
+    margin: 0;
+    text-align: center;
+}
