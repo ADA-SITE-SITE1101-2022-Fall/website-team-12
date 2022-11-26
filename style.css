@@ -88,7 +88,9 @@ h7 {
 
 new1 {
     color: #15616d;
-    font-family: 'Microsoft New Tai Lue', sans-serif;
+    font-family: Arial, sans-serif;
     font-size: 30;
     font-weight: 300;
+    margin: 0;
+    text-align: center;
 }
