@@ -20,3 +20,16 @@ if (person === 'Laman') {
 } else {
     console.log('Invalid person.');
 }
+
+
+const find me = function (student) {
+    if (student === 'ADA student') {
+        return true;
+    }
+    else {
+        return false;
+    }
+}
+find me('MIT student');
+console.log(find me('MIT student'))
+
