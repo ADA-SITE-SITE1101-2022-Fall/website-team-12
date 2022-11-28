@@ -8,3 +8,6 @@ newVariable = 15;
 
 console.log(typeof newVariable);
 console.log(Welcome to the website);
+
+
+console.log('Codecademy'.toUpperCase());
