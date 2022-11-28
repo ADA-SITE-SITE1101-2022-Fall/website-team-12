@@ -1,4 +1,3 @@
-alert('test')
 
 let myName = 'Natalia';
 let myCity = 'Mexico City';
