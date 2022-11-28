@@ -10,4 +10,4 @@ console.log(typeof newVariable);
 console.log(Welcome to the website);
 
 
-console.log('Codecademy'.toUpperCase());
+console.log('Codecademy'.toUpperCase())
