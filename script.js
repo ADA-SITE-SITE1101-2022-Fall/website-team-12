@@ -4,7 +4,7 @@ let newVariable = 'Playing around with typeof.';
 
 console.log(typeof newVariable);
 
-newVariable = 1;
+newVariable = 15;
 
 console.log(typeof newVariable);
 console.log(Welcome to the website);
