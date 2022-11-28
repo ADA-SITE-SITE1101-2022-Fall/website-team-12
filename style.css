@@ -86,15 +86,17 @@ h7 {
 }
 }
 
+
 new1 {
-    color: #15616d;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, Helvetica, sans-serif;
-    font-size: 30px;
+    color: #bab97a;
+    font-family: 'Yantramanav', sans-serif;
+    font-size: 20px;
     font-weight: 300;
     margin: 0;
     text-align: center;
 }
 
+}
 address {
 
 }
