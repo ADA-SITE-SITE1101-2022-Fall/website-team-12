@@ -1,15 +1,6 @@
 alert('test')
 
+let myName = 'Natalia';
+let myCity = 'Mexico City';
 
-let newVariable = 'Playing around with typeof.';
-
-
-console.log(typeof newVariable);
-
-newVariable = 15;
-
-console.log(typeof newVariable);
-console.log(Welcome to the website);
-
-
-console.log('Codecademy'.toUpperCase())
+console.log(`My name is ${myName}. My favorite city is ${myCity}.`)
